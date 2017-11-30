@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-size: 4rem;
+  background-color: rgba(0, 0, 0, .5);
+  colour: #fff;
+}
