@@ -8,7 +8,24 @@ html {
 }
 
 h1 {
+  font-family: 'Open Sans', sans-serif;
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
-  colour: #fff;
+  color: #fff;
+}
+
+span {
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-size: 2rem;
+}
+
+.banner {
+  max-width: 50em;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+  min-height: 500px;
 }
