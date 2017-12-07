@@ -19,7 +19,7 @@ div {
 
 .together {
   position: absolute;
-  bottom: 0;
+  top: 0;
   left: 49%;
   transform: translateX(-49%);
   width: 100%;
