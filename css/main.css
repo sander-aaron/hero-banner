@@ -19,9 +19,9 @@ div {
 
 .together {
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 50%;
-  transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-55%);
   width: 100%;
   height: 365px;
   max-width: 670px;
