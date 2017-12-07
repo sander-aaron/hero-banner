@@ -12,12 +12,18 @@ h1 {
   font-size: 4rem;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
+  position: absolute;
+  bottom: 0;
+  width: 60%;
 }
 
 span {
   font-family: 'Open Sans', sans-serif;
   font-style: italic;
   font-size: 2rem;
+  position: absolute;
+  bottom: 0;
+  width: 60%;
 }
 
 .banner {
