@@ -30,6 +30,7 @@ div {
 h2 {
   font-family: "Open Sans", sans-serif;
   font-size: 4rem;
+  line-height: 1.5;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
   margin: 0;
